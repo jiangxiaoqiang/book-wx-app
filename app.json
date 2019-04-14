@@ -1,0 +1,12 @@
+{
+  "pages":[
+        "pages/home/index"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "backgroundColor": "#eee",
+    "navigationBarBackgroundColor": "#eee",
+    "navigationBarTitleText": "检索书",
+    "navigationBarTextStyle":"black"
+  }
+}
